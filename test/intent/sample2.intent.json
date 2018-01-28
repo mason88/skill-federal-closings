@@ -1,0 +1,7 @@
+{
+  "utterance": "are there government closings",
+  "intent_type": "FederalClosingsIntent",
+  "intent": {
+    "FederalClosingsKeyword": "government closings"
+  }
+}
